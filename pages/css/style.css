@@ -223,6 +223,10 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 30px;
 }
 
+.text-light {
+  color: white;
+}
+
 #fh5co-features {
   /*background: #FF9000;*/
   background: rgba(140, 0, 255, 0.9);
